@@ -1,0 +1,30 @@
+# React
+node_modules/
+dist/
+.vite/
+
+# .NET
+bin/
+obj/
+.vs/
+
+# Visual Studio
+*.user
+*.suo
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Logs
+*.log
+
+# Database/local files
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+appsettings.Local.json

@@ -1,0 +1,6 @@
+@GestionStockAxia.API_HostAddress = http://localhost:5219
+
+GET {{GestionStockAxia.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
